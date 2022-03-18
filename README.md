@@ -23,22 +23,6 @@ in user_configs.json or configs.json write
 
 ## Screenshots
 
-<details><summary>Dark Side of Dimensions</summary>
-<p>
- 
-![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
-![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-10.png)
-</p>
-</details>
-
-<details><summary>Dark Side of Dimensions - Alt (Alternative)</summary>
-<p>
- 
-![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
-![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
-</p>
-</details>
-
 <details><summary>Dawn of a New Era</summary>
 <p>
  
@@ -55,7 +39,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Forbidden Memories</summary>
+<details><summary>Forbidden Memories A</summary>
 <p>
  
 ![Screenshot 7](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-55-52.png)
@@ -63,7 +47,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Forbidden Memories - Alt (Alternative)</summary>
+<details><summary>Forbidden Memories B</summary>
 <p>
  
 ![Screenshot 9](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-31.png)
@@ -87,7 +71,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Link Evolution - Custom</summary>
+<details><summary>Link Evolution</summary>
 <p>
  
 ![Screenshot 15](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-07%2013-46-52.png)
@@ -103,7 +87,31 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Translucent Blue</summary>
+<details><summary>TDSOD A</summary>
+<p>
+ 
+![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
+![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-10.png)
+</p>
+</details>
+
+<details><summary>TDSOD B</summary>
+<p>
+ 
+![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
+![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
+</p>
+</details>
+
+<details><summary>TDSOD C</summary>
+<p>
+ 
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-28.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-34.png)
+</p>
+</details>
+
+<details><summary>Translucent Blue A</summary>
 <p>
  
 ![Screenshot 19](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-32-52.png)
@@ -111,11 +119,28 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Translucent Blue - Alt (Alternative)</summary>
+<details><summary>Translucent Blue B</summary>
 <p>
    
 ![Screenshot 21](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
 ![Screenshot 22](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-13%2021-00-20.png)
 </p>
 </details>
+
+<details><summary>Yu-Gi-Oh Playmat A</summary>
+<p>
+   
+![Screenshot 23](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-31%2017-51-13.png)
+![Screenshot 24](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-31%2017-51-21.png)
+</p>
+</details>
+
+<details><summary>Yu-Gi-Oh Playmat B</summary>
+<p>
+   
+![Screenshot 25](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-35.png)
+![Screenshot 26](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-46.png)
+</p>
+</details>
+
 
