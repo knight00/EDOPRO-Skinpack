@@ -17,6 +17,12 @@
 		<EGDC_ACTIVE_CAPTION a="255" r="35" g="45" b="95" />
 		<EGDC_APP_WORKSPACE a="255" r="255" g="255" b="255" />
 		<EGDC_BUTTON_TEXT a="240" r="0" g="0" b="0" />
+<<<<<<< HEAD
+=======
+		<EGDC_EDITABLE a="255" r="195" g="195" b="195" />
+		<EGDC_FOCUSED_EDITABLE a="255" r="170" g="170" b="170" />
+		<EGDC_GRAY_EDITABLE a="255" r="51" g="51" b="51" />
+>>>>>>> upstream/master
 		<EGDC_GRAY_TEXT a="255" r="60" g="60" b="60" />
 		<EGDC_HIGH_LIGHT a="255" r="153" g="153" b="153" />
 		<EGDC_HIGH_LIGHT_TEXT a="255" r="20" g="20" b="20" />

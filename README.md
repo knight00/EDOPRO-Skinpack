@@ -4,12 +4,19 @@ Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
 Credits to original creators, I only created MR2020 field, edited skin.xml and some textures to work properly
 
+Most of them contain old master rule field textures
+
 Discord: Lahrenheit#8564
+
+[HD Pics Downloader](https://github.com/AlexsanderRST/EDOPro-HD-Pics-Downloader) by AlexanderRST
 
 
 ## Setup
+[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json)
 
-in user_configs.json or configs.json write
+or
+
+create a file called "user_configs.json" in ProjectIgnis\config and then write:
 
 ```
 {
@@ -23,11 +30,27 @@ in user_configs.json or configs.json write
 
 ## Screenshots
 
+<details><summary>Darkness</summary>
+<p>
+   
+![Screenshot 35](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-23-30.png)
+![Screenshot 36](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-23-36.png)
+</p>
+</details>
+
 <details><summary>Dawn of a New Era</summary>
 <p>
  
 ![Screenshot 23](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-05%2011-22-13.png)
 ![Screenshot 24](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-05%2011-22-18.png)
+</p>
+</details>
+
+<details><summary>Duel Accelerator</summary>
+<p>
+ 
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-48-42.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-48-48.png)
 </p>
 </details>
 
@@ -42,8 +65,8 @@ in user_configs.json or configs.json write
 <details><summary>Forbidden Memories A</summary>
 <p>
  
-![Screenshot 7](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-55-52.png)
-![Screenshot 8](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-04.png)
+![Screenshot 7](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2019-55-30.png)
+![Screenshot 8](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2019-55-35.png)
 </p>
 </details>
 
@@ -71,6 +94,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Light Flare</summary>
+<p>
+   
+![Screenshot 33](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-55-59.png)
+![Screenshot 34](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-56-04.png)
+</p>
+</details>
+
 <details><summary>Link Evolution</summary>
 <p>
  
@@ -82,8 +113,40 @@ in user_configs.json or configs.json write
 <details><summary>Milennial Destiny</summary>
 <p>
  
-![Screenshot 17](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-12-44.png)
-![Screenshot 18](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-15-17.png)
+![Screenshot 17](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-13-06.png)
+![Screenshot 18](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-13-13.png)
+</p>
+</details>
+
+<details><summary>Online Ignis</summary>
+<p>
+ 
+![Screenshot 29](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-03-35.png)
+![Screenshot 30](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-03-42.png)
+</p>
+</details>
+
+<details><summary>Paper</summary>
+<p>
+   
+![Screenshot 39](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-12-40.png)
+![Screenshot 40](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-12-46.png)
+</p>
+</details>
+
+<details><summary>Rose Pink G</summary>
+<p>
+   
+![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-06%2021-41-40.png)
+![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-06%2021-41-45.png)
+</p>
+</details>
+
+<details><summary>Splash</summary>
+<p>
+   
+![Screenshot 41](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-17-19.png)
+![Screenshot 42](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-17-24.png)
 </p>
 </details>
 
@@ -106,8 +169,8 @@ in user_configs.json or configs.json write
 <details><summary>TDSOD C</summary>
 <p>
  
-![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-28.png)
-![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-34.png)
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-05.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-10.png)
 </p>
 </details>
 
@@ -122,8 +185,24 @@ in user_configs.json or configs.json write
 <details><summary>Translucent Blue B</summary>
 <p>
    
-![Screenshot 21](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
-![Screenshot 22](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-13%2021-00-20.png)
+![Screenshot 21](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
+![Screenshot 22](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-13%2021-00-20.png)
+</p>
+</details>
+
+<details><summary>West A</summary>
+<p>
+   
+![Screenshot 37](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-33-28.png)
+![Screenshot 38](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-33-33.png)
+</p>
+</details>
+
+<details><summary>West B</summary>
+<p>
+   
+![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-46-39.png)
+![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-46-48.png)
 </p>
 </details>
 
@@ -140,6 +219,14 @@ in user_configs.json or configs.json write
    
 ![Screenshot 25](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-35.png)
 ![Screenshot 26](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-46.png)
+</p>
+</details>
+
+<details><summary>ZusSkin</summary>
+<p>
+   
+![Screenshot 31](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-37-23.png)
+![Screenshot 32](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-37-29.png)
 </p>
 </details>
 
