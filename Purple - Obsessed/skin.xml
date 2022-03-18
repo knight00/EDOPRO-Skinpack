@@ -94,22 +94,14 @@
 		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="255" g="255" b="255" />
 		<!-- Changes the color for the caption text when you have to select cards from a location.
 			Example: the "Deck[1], Deck[2], etc, positions shown when you select a card with something like Terraforming-->
-<<<<<<< HEAD
-		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="255" g="255" b="255" />
-=======
 		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="242" g="255" b="0" />
 		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="255" r="0" g="255" b="255" />
->>>>>>> upstream/master
 		<!-- Changes the color for the texts in the room list menu. Examples: the "Server", "Nickname", "show locked rooms" texts-->
 		<ROOMLIST_TEXTS_COLOR a="255" r="230" g="230" b="230" />
 		<!-- Changes the color for a room that didn't have any of its settings changed from the default ones-->
 		<ROOMLIST_NORMAL_ROOM a="255" r="230" g="230" b="230" />
 		<!-- Changes the color for a room that has any of its settings changed from the default ones. Example: different LP, different starting hand, etc-->
-<<<<<<< HEAD
-		<ROOMLIST_CUSTOM_ROOM a="255" r="230" g="230" b="230" />
-=======
 		<ROOMLIST_CUSTOM_ROOM a="255" r="255" g="0" b="0" />
->>>>>>> upstream/master
 		<!-- Changes the color for a room, in the room list, that has already started its duel.-->
 		<ROOMLIST_STARTED_ROOM a="255" r="230" g="230" b="230" />
 		
