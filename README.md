@@ -6,15 +6,22 @@ Credits to original creators, I only created MR2020 field, edited skin.xml and s
 
 Most of them contain old master rule field textures
 
-Discord: Lahrenheit#8564
 
 [All HD cards here](https://github.com/Deadsy9777/Project-Ignis-HD-Cards)
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
+[Parche Idioma Español](https://github.com/ryoken08/CDBEsp) - [Video](https://www.youtube.com/watch?v=TpbRVKie3qA&ab_channel=MatiasA.Saavedra)
+
+
+
 
 ## Setup
-[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json)
+(for english users)
+[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-eng/user_configs.json)
+
+(for spanish users)
+[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro/user_configs.json)
 
 Be patient, edopro have to download all skins and sounds
 
