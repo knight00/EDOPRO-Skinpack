@@ -1,6 +1,7 @@
-# EDOPRO-Skinpack [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
+# <img src="https://projectignis.github.io/assets/img/ignis_logo.png" width="80"/>EDOPRO-Skinpack
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
+---
 
 
 
@@ -11,7 +12,10 @@ Most of them contain old master rule field textures
 Compatible with all plataforms (tested in PC and Mobile versions, let me know if exists any issues)
 
 
-[HD cards downloader here](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) - [>>>>>>>>>> All HD Cards and Fields Pack <<<<<<<<<<](https://www.mediafire.com/folder/ctocsu109hfnu/EDOPro)
+
+[HD cards downloader here (recommended)](https://github.com/Armytille/EDOPro-HD-Pics-Downloader)
+
+[>>>>>>>>>> All HD Cards and Fields Pack <<<<<<<<<< (updated 29 november 2025)](https://www.mediafire.com/folder/ctocsu109hfnu/EDOProHDPics)
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
@@ -19,15 +23,18 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 
 [Parche Idioma Español Alternativo (Nombres de las cartas en inglés)](https://github.com/josevdr95new/cdbespa-alternativo)
 
+---
 
-# !!!
+
+# ❗❗❗
 if you want more skins [check here](https://edoprohd.epizy.com/) and [here](https://github.com/josevdr95new/EDOPro-SkinLibrary) (these are not mine)
 
+if you are interested in .json file [check here](https://github.com/Lahrenheit/EDOPRO-Skinpack/tree/json) 
+
+---
 
 
-
-
-## Setup
+## 🛠️ Setup
 (for english users)
 [Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-eng/user_configs.json)
 
@@ -50,7 +57,9 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 },
 ```
 
-## Screenshots
+---
+
+## 🖼️ Screenshots
 
 <details><summary>Darkness</summary>
 <p>
@@ -84,6 +93,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>Dueling Book</summary>
+<p>
+ 
+![Screenshot 71](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2015-55-23.png)
+![Screenshot 72](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2015-55-29.png)
+</p>
+</details>
+
 <details><summary>Forbidden Memories A</summary>
 <p>
  
@@ -97,6 +114,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
  
 ![Screenshot 9](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-23-39.png)
 ![Screenshot 10](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-27-55.png)
+</p>
+</details>
+
+<details><summary>Forest of Endless White Edit</summary>
+<p>
+ 
+![Screenshot 50](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-46-55.png)
+![Screenshot 52](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-47-19.png)
 </p>
 </details>
 
@@ -132,6 +157,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>Master Duel Edit</summary>
+<p>
+ 
+![Screenshot 53](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-48-13.png)
+![Screenshot 54](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-48-29.png)
+</p>
+</details>
+
 <details><summary>Milennial Destiny</summary>
 <p>
  
@@ -161,6 +194,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
    
 ![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-25-19.png)
 ![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-28-58.png)
+</p>
+</details>
+
+<details><summary>Rose Pink G 2</summary>
+<p>
+   
+![Screenshot 55](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-49-01.png)
+![Screenshot 56](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-49-16.png)
 </p>
 </details>
 
@@ -196,6 +237,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>TDSOD D</summary>
+<p>
+ 
+![Screenshot 57](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-30%2015-07-56.png)
+![Screenshot 58](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-30%2015-08-05.png)
+</p>
+</details>
+
 <details><summary>Translucent Blue A</summary>
 <p>
  
@@ -228,6 +277,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>YGOMobile-OCG</summary>
+<p>
+   
+![Screenshot 59](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-50-42.png)
+![Screenshot 60](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-51-02.png)
+</p>
+</details>
+
 <details><summary>Yu-Gi-Oh Playmat A</summary>
 <p>
    
@@ -252,4 +309,5 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+---
 
